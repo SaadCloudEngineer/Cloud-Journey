@@ -1,0 +1,11 @@
+# Stage 1 - Computer Basics
+
+## What I Learned:
+- Computer follows IPO cycle
+- Hardware = physical parts
+- Software = programs
+- RAM = temporary storage
+- Hard Disk = permanent storage
+- OS controls everything
+- Linux is OS for cloud servers
+- Files and folders organization

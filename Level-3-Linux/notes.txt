@@ -1,0 +1,13 @@
+# Level 3 - Linux Mastery
+
+## What I Learned:
+- Linux = free open source OS
+- 90% cloud servers use Linux
+- Terminal = text based control
+- pwd, ls, cd, mkdir, touch, cat, rm, clear
+- Permissions: rwx = read write execute
+- chmod 700 = owner only (secure)
+- chmod 777 = everyone (dangerous!)
+- Shell scripting = automation
+- Shebang #!/bin/bash = first line
+

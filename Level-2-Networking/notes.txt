@@ -1,0 +1,12 @@
+# Level 2 - Internet Basics
+
+## What I Learned:
+- Internet = global network
+- IP Address = unique device address
+- DNS = phonebook converts name to IP
+- HTTP = unsecured (port 80)
+- HTTPS = secured (port 443)
+- Router = directs packets
+- Firewall = security bouncer
+- WiFi = wireless, Cable = stable
+
